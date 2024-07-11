@@ -1,0 +1,21 @@
+https://docs.google.com/document/d/1LX1NjK_aZ2djjbzpNK7iiPtoxPZ0KkU_JgIzq6lf5EI/edit?usp=sharing
+
+
+weaknesses:
+-incremental contribution over Heracles
+-SLA controlled over variance is questionable and not clear
+-incorrect formulas
+-simplistic (few microservices) evaluation
+
+xc
+
+https://docs.google.com/document/d/1LX1NjK_aZ2djjbzpNK7iiPtoxPZ0KkU_JgIzq6lf5EI/edit?usp=sharing
+
+
+dy not great but you at least have to provide the meaning and why you are showing them here.
+
+~The paper suffers from significant spelling and grammar issues which, with the availability of advanced spell-checkers such as Grammarly and Chat-GPT, are no longer acceptable. Thus, the paper is too hard to read, prohibiting an objective judgement. Furthermore, there are organizational and logical issues. For instance, I have no idea what this sentence is supposed to mean: "We report that the impact factor of the Java language, MapReduce programming framework, Hadoop daemons, JVM runtime environment, and specific microarchitecture (Intel Xeon Gold 5120T) were 0.46, 0.3, 0.02, 0.14, and 0.08, respectively, as explained in Section 6."
+
+What is the impact factor here?
+What are these 5 floating point numbers about? Defining them only in Section 6 is already not great but you at least have to provide the meaning and why you are showing them here.
+

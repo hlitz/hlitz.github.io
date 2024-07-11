@@ -1,0 +1,99 @@
+/* Simple CSS stylesheet, color schemas from http://www.stanford.edu/group/identity/ug_color.html 
+ * Author: Daniel Sanchez
+ */
+
+span.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+}
+
+body {
+margin: 0;
+padding: 0;
+background-color: #DDDDDD;
+color: #000000;  
+text-align: left;
+font-family: Arial, sans-serif;
+font-size: 1em;
+}
+
+a {
+color: #00458c;
+text-decoration: none;
+}
+
+a:hover {
+color: #F1B521;
+text-decoration: none;
+}
+
+p {
+margin: 0;
+padding-top: .25em;
+padding-bottom: .35em;
+}
+
+ul {
+margin-left: 0;
+padding-left: 1.5em;
+}
+
+
+#framebox {
+margin-top: 1em;
+margin-left: 1em;
+margin-right: 1em;
+margin-bottom: 1em;
+padding: 0 0 0 0;
+background:#ffffff;
+text-align: left;
+border:1px solid #666666;
+}
+
+
+#main {
+margin: 0;
+padding: 1.5em 1.5em 1.5em 1.5em;
+}
+
+#main h2 {
+margin: 0 0 -.5em 0;
+padding: .75em 0 0 0;
+font-size: 1.25em;
+}
+
+
+#header {
+padding: 0;
+margin: 0;
+color: #ffffff;
+background-color: #00458c;
+#background-color: #F1B521;
+}
+
+#header h1 {
+margin: 0;
+padding: .2em .2em 0 .5em;
+font-size: 2.2em;
+letter-spacing: .025em;
+}
+
+#header h2 {
+margin: 0;
+padding: 0em .1em .7em 1.2em;
+font-size: 1.1em;
+}
+
+
+#floating_box {
+position: relative;
+float: right;
+clear: both;
+text-align: left;
+width: 16em;
+margin: 0 0 1.5em 1.5em;
+padding: .5em .6em .5em .6em;
+background: #f8f8ff;
+border: 1px solid #666666;
+font-size: .9em;
+}
